@@ -1,7 +1,7 @@
 # property-management-app
 
 
-
+[specs and Build process](https://github.com/Kalunge/property-management-app/blob/main/specs.mdhttps://github.com/Kalunge/property-management-app/blob/main/specs.md)
 
 ## Built With
 - React
