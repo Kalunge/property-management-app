@@ -121,6 +121,4 @@ Should have the following attributes
 
 
 
-
-
 ### 4. FrontEnd(React Native) => later
